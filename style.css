@@ -1,5 +1,5 @@
 body {
-    background: #0d7b9c;
+    background: #145457; 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     align-items: center;
@@ -34,7 +34,7 @@ input {
 }
 
 button {
-    background: #debff4;
+    background: #938e97;
     color: white;
     padding: 10px;
     border: none;
